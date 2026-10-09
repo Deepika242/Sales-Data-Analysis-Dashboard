@@ -39,7 +39,7 @@ This project focuses on cleaning sales data, analyzing business performance, and
 
 ## GitHub Repository
 
-Repository: Add your GitHub repository URL here.
+Repository: https://github.com/Deepika242/Sales-Data-Analysis-Dashboard/tree/main
 
 ## Author
 
